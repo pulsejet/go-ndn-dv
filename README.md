@@ -1,3 +1,5 @@
+# ⚠️ Moved to https://github.com/named-data/ndnd ⚠️
+
 # Named Data Networking Distance Vector Router
 
 [![Go](https://github.com/pulsejet/go-ndn-dv/actions/workflows/test.yaml/badge.svg)](https://github.com/pulsejet/go-ndn-dv/actions/workflows/test.yaml)
